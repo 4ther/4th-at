@@ -1,6 +1,6 @@
 # ForthPlus
-"ForthPlus"简称“4th+”或"4thp"，是“Forth程序员”QQ群共同发起的开源Forth编译器项目，
-本项目自2015-11-12日起正式在github开设社区和代码仓库。
+"ForthPlus"简称“4th+”或"4thp"，是“Forth程序员之家”（QQ群：12781666）共同发起
+的开源Forth编译器项目，本项目自2015-11-12日起正式在github开设社区和代码仓库。
 
 ForthPlus项目目标：
 目的：建立在多个主流芯片和操作系统中编辑、编译和高效运行Forth语言程序的Fort-
